@@ -1,6 +1,6 @@
 name: Bug Report (form)
 description: Create a report to help us improve using a form
-labels: [bug, triage]
+labels: [bug]
 body:
   - type: markdown
     attributes:
