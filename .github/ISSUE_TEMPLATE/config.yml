@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Read Docs
-    url: https://devstarops.com/
-    about: Unsure on how something works? Take a look at our product docs
-  - name: Contact (Email)
-    url: mailto:github@beeming.co.za
-    about: Mail me if needed
